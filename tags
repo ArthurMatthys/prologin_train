@@ -1,0 +1,81 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+a	2015/qualification/lv1.py	/^a = int(input())$/;"	v
+a	2015/qualification/lv2.py	/^        a = a * 3 + 1$/;"	v
+a	2015/qualification/lv2.py	/^a = int(input())$/;"	v
+a	2015/regional/lv5_0.py	/^    a = [int(e) for e in input().split(' ')]$/;"	v
+a	2015/regional/lv6_0.py	/^a = dp([], [], group, 0)$/;"	v
+adj	2015/qualification/lv4.py	/^adj = [[float('inf') for _ in range(N)] for _ in range(N)]$/;"	v
+adj	2015/regional/lv5_0.py	/^adj = [[] for _ in range(n)]$/;"	v
+an	2015/qualification/lv3.py	/^    an = i - out[0]$/;"	v
+astar	2015/regional/lv5_1.py	/^def astar(maps, start, end):$/;"	f
+calc_rec	2015/regional/lv5_0.py	/^def calc_rec(adj, times, i):$/;"	f
+cmath	2015/qualification/lv3.py	/^import cmath$/;"	i
+color	2015/regional/lv4_1.py	/^    color = plate[ax][ay]$/;"	v
+crenau	2015/regional/lv2_2.py	/^def crenau(nbr, h):$/;"	f
+dd	2015/regional/lv4_2.py	/^dd = [[1,0],[-1,0],[0,1],[0,-1]]$/;"	v
+dd	2015/regional/lv5_1.py	/^dd = [[1,0,0], [-1,0,0], [0,1,0], [0,-1,0], [0,0,1], [0,0,-1]]$/;"	v
+dji	2015/qualification/lv4.py	/^def dji(start):$/;"	f
+dp	2015/regional/lv6_0.py	/^def dp(lst, eat, group, index):$/;"	f
+end	2015/regional/lv5_1.py	/^        end = (i, maps[0][i].index('a'), 0)$/;"	v
+first	2015/regional/lv3_1.py	/^first = []$/;"	v
+flood	2015/regional/lv4_2.py	/^def flood(mount, dic, x, y):$/;"	f
+get_fastest	2015/regional/lv3_1.py	/^def get_fastest(lst):$/;"	f
+group	2015/regional/lv6_0.py	/^group = [int(e) for e in input().split()]$/;"	v
+group	2015/regional/lv6_01.py	/^group = [int(e) for e in input().split()]$/;"	v
+h	2015/regional/lv2_2.py	/^h = int(input())$/;"	v
+heapq	2015/qualification/lv4.py	/^import heapq$/;"	i
+heapq	2015/regional/lv5_1.py	/^import heapq$/;"	i
+height	2015/regional/lv4_2.py	/^height = dict()$/;"	v
+index	2015/regional/lv5_0.py	/^    index = 1$/;"	v
+it	2015/qualification/lv2.py	/^it = int(input())$/;"	v
+l_of	2015/regional/lv4_1.py	/^l_of = [[1,0], [-1,0], [0,1], [0,-1]]$/;"	v
+length	2015/regional/lv1_1.py	/^length = int(input())$/;"	v
+line	2015/regional/lv2_1.py	/^line = input().split(' ')$/;"	v
+links	2015/regional/lv6_01.py	/^links = [set() for _ in range(n)]$/;"	v
+manhattan	2015/regional/lv5_1.py	/^def manhattan(start, end):$/;"	f
+map1	2015/regional/lv5_1.py	/^map1 = [list(input()) for _ in range(h)]$/;"	v
+map2	2015/regional/lv5_1.py	/^map2 = [list(input()) for _ in range(h)]$/;"	v
+maps	2015/regional/lv5_1.py	/^maps = [map1] + [map2]$/;"	v
+math	2015/qualification/lv3.py	/^import math$/;"	i
+math	2015/regional/lv1_1.py	/^import math$/;"	i
+mount	2015/regional/lv4_2.py	/^mount = [list(map(int, input().split(' '))) for _ in range(h)]$/;"	v
+n	2015/regional/lv5_0.py	/^n = int(input())$/;"	v
+n	2015/regional/lv6_0.py	/^n = int(input())$/;"	v
+n	2015/regional/lv6_01.py	/^n = int(input())$/;"	v
+nbr	2015/qualification/lv3.py	/^nbr = int(input())$/;"	v
+nbr	2015/regional/lv1_1.py	/^nbr = int(input())$/;"	v
+nbr	2015/regional/lv2_2.py	/^nbr = int(input())$/;"	v
+nbr	2015/regional/lv4_1.py	/^nbr = 0$/;"	v
+nbr	2015/regional/lv6_01.py	/^nbr = 0$/;"	v
+new_dist	2015/regional/lv1_1.py	/^    new_dist = length - s$/;"	v
+new_tab	2015/regional/lv3_2.py	/^    new_tab = []$/;"	v
+norm	2015/qualification/lv3.py	/^def norm(a):$/;"	f
+origin	2015/regional/lv4_1.py	/^origin = plate[x][y]$/;"	v
+out	2015/qualification/lv3.py	/^out = []$/;"	v
+paths	2015/qualification/lv4.py	/^paths = [{} for _ in range(N)]$/;"	v
+plate	2015/regional/lv4_1.py	/^plate = [list(map(int, input().split(' '))) for _ in range(h)]$/;"	v
+points	2015/qualification/lv3.py	/^points = []$/;"	v
+pyramid	2015/regional/lv3_2.py	/^pyramid = []$/;"	v
+r	2015/qualification/lv3.py	/^r = [int(e) for e in input().split(' ')]$/;"	v
+rem	2015/regional/lv2_1.py	/^rem = [int(e) for e in input().split(' ')]$/;"	v
+remove_elem	2015/regional/lv6_01.py	/^def remove_elem(elem, links, add=False):$/;"	f
+res	2015/qualification/lv3.py	/^res = []$/;"	v
+run	2015/regional/lv3_1.py	/^def run(first, second):$/;"	f
+s	2015/regional/lv1_1.py	/^    s = start[index]$/;"	v
+second	2015/regional/lv3_1.py	/^second = []$/;"	v
+size	2015/regional/lv3_2.py	/^size = int(input())$/;"	v
+speed	2015/regional/lv1_1.py	/^speed = [int(e) for e in input().split()]$/;"	v
+st	2015/regional/lv5_1.py	/^        st = (i, maps[0][i].index('d'), 0)$/;"	v
+stack	2015/regional/lv4_1.py	/^stack = set()$/;"	v
+start	2015/regional/lv1_1.py	/^start = [int(e) for e in input().split()]$/;"	v
+temp	2015/regional/lv1_2.py	/^temp = [int(e) for e in input().split(' ')]$/;"	v
+times	2015/regional/lv1_1.py	/^times = []$/;"	v
+times	2015/regional/lv5_0.py	/^times = [-1 for _ in range(n)]$/;"	v
+timing	2015/regional/lv3_2.py	/^timing = []$/;"	v
+tmp	2015/regional/lv1_2.py	/^tmp = [temp[0]]$/;"	v
+tot	2015/qualification/lv1.py	/^tot = [i for i in range(1, a+1)]$/;"	v
